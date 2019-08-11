@@ -23,7 +23,7 @@
     Today I Learned
 
 #### [MyAirbnb](https://github.com/VincentGeranium/MyAirbnb)
-        AirBnB Clone Team Project
+    AirBnB Clone Team Project
         
 #### [daily-study](https://github.com/VincentGeranium/daily-study)
     190411 전까지 하루 공부 내용을 정리하여 업로드한 저장소
