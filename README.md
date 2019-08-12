@@ -58,7 +58,7 @@ Fast Campus 첫 해커톤, 팀 프로젝트.
 
 - Fishing Point (피싱 포인트)
 - 기간 : 2019.05.17 ~ 24
-- 역활 : 등록 페이지 구현
+- 역할 : 등록 페이지 구현
 - 사용기술 : Swift, MapKit, CoreLocation, MobileCoreService, Firebase
 - 프로젝트 인원 : 2명
 - [영상 링크](https://youtu.be/uMAwjqyQP90)
@@ -77,7 +77,7 @@ Fast Campus 두번째 해커톤, 팀 프로젝트.
 
 - Green Light (그린 라이트)
 - 기간 : 2019.06.24 ~ 28
-- 역활 : 로그인, 회원가입 페이지 구현
+- 역할 : 로그인, 회원가입 페이지 구현
 - 사용기술 : Swift, URLSession
 - 프로젝트 인원 : 3명
 - [영상 링크](https://youtu.be/VoQcsD0qX-Q)
@@ -93,7 +93,7 @@ Back-end(3명), Front-end(4명), iOS(3명) 이 1팀을 이루어 한 프로젝�
 
 - AirBnB Clone Project(에어비엔비 클론 프로젝트)
 - 기간 : 2019.07.01 ~ 08.09
-- 역활 : 로그인, 회원가입 페이지 구현, 각종 UI/UX 구현
+- 역할 : 로그인, 회원가입 페이지 구현, 각종 UI/UX 구현
 - 사용기술 : Swift, URLSession 
 - 프로젝트 인원 : 10명
 - [영상 링크](https://youtu.be/k47imZZucpY)
