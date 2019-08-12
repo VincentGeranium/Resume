@@ -16,6 +16,9 @@
 
 #### Fishing Point (피싱 포인트)
 
+자신이 직접 자신만의 낚시 데이터를 쌓아가는 앱.
+Fast Campus 첫 해커톤, 팀 프로젝트.
+
 - Fishing Point (피싱 포인트)
 - 기간 : 2019.05.17 ~ 24
 - 역활 : 등록 페이지 구현
@@ -23,6 +26,8 @@
 - 프로젝트 인원 : 2명
 - [영상 링크](https://youtu.be/uMAwjqyQP90)
 - [Fishing Point repo](https://github.com/VincentGeranium/fishing)
+
+<img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/1.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/2.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/3.PNG">
 
 
 
