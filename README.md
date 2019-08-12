@@ -60,7 +60,7 @@ Back-end(3명), Front-end(4명), iOS(3명) 이 1팀을 이루어 한 프로젝�
 - [영상 링크](https://youtu.be/k47imZZucpY)
 - [AirBnB Clone Project](https://github.com/VincentGeranium/MyAirbnb)
 
-<img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a1.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a2.png"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a3.png"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a4.png"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a5.png"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a6.png"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a7.png">
+<img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a1.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a2.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a3.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a4.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a5.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a6.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a7.PNG">
 
 ---
 
