@@ -27,6 +27,8 @@ Fast Campus 첫 해커톤, 팀 프로젝트.
 - [영상 링크](https://youtu.be/uMAwjqyQP90)
 - [Fishing Point repo](https://github.com/VincentGeranium/fishing)
 
+<img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/1.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/2.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/3.PNG">
+
 ---
 
 #### Green Light (그린 라이트)
