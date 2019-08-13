@@ -93,7 +93,7 @@
     - Algorithm-Study
     - 꼼꼼한 재은씨 문법편
     - Computer-Architecture
-    
+    - study-summary
 
 ---
 
@@ -191,5 +191,7 @@ Back-end(3명), Front-end(4명), iOS(3명) 이 1팀을 이루어 한 프로젝�
     
 ### [Computer-Architecture](https://github.com/VincentGeranium/Computer-Architecture)
     컴퓨터 구조론을 공부하고 정리한 저장소
-
+    
+### [study-summary](https://github.com/VincentGeranium/study-summary)
+    공부 한 여러 내용들을 정리하고 업로드 하는 저장소 입니다
 
