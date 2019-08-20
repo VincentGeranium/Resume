@@ -6,13 +6,19 @@
 
 서비스 직종에서의 **팀으로 일한 경험**으로 인하여 **협업/커뮤니케이션**에 능합니다.
 
-**배움을 즐거워**하며 **새로움을 두려워 하지않습니다.**
+**배움을 즐거워**하며 **새로움을 두려워하지 않습니다.**
 
-**팀의 중요성**을 잘 알고 있으며, **새로운 환경**에 잘 적응 합니다.
+**팀의 중요성**을 잘 알고 있으며, **새로운 환경**에 잘 적응합니다.
 
-**열정과 끈기**가 있어 **맡은 바**에 최선을 다하고 결과물을 가져옵니다.
+**열정과 끈기 그리고 책임감이** 있어 **맡은 바**에 **최선**을 다하고 결과물을 가져옵니다.
 
 **직접 관찰**하거나 **사용자의 입장에서 생각**하여 **니즈를 파악, 반영해 성과를 올린 경험**이 있습니다.
+
+## contact
+
+- E-mail : kwangjun3952@gmail.com
+
+- Blog : [VincentGeranium Blog](https://vincentgeranium.github.io/)
 
 ### Skills
 
@@ -22,27 +28,27 @@
     
     기본 문법을 이해하고 Swift의 여러 예제 코드들을 작성해 보았으며
     
-    서버와 통신하여 데이터를 주고 받는 앱을 팀 프로젝트를 통하여 만들어 본 경험이 있습니다.
+    서버와 통신하여 데이터를 주고받는 앱을 팀 프로젝트를 통하여 만들어 본 경험이 있습니다.
 
 #### Framework
 
 - UIKit
 
-    UIKit 프레임 워크를 이용하여 앱을 빌드하는데 필요한 핵심 객체들을 구현 할 수 있으며,
-    
-    핵심 객체를 사용하여 화면에 컨텐츠를 표시하고 해당 컨텐츠와 시스템과의 상호 작용을 관리 할 수 있습니다
-    
-    또한 특정한 요구에 맞게 구현 할 수 있습니다.
+    UIKit 프레임 워크를 이용하여 앱을 빌드 하는데 필요한 핵심 객체들을 구현할 수 있으며,
+
+    핵심 객체를 사용하여 화면에 콘텐츠를 표시하고 해당 콘텐츠와 시스템과의 상호 작용을 관리할 수 있습니다
+
+    또한 특정한 요구에 맞게 구현할 수 있습니다.
     
 - Foundation
 
     Foundation 프레임 워크를 이용하여 데이터 저장 및 지속을 할 수 있으며, 
-    
-    텍스트를 처리 할 수 있고 정렬 및 필터링을 하여 원하는 데이터로 가공 할 수 있습니다
-    
-    또한 URLSession 을 이용하여 서버와 통신, 데이터를 주고 받고 앱 내에서 그 데이터를
-    
-    사용 할 수 있도록 구현 할 수 있으며 그러한 프로젝트들을 진행해 본 경험이 있습니다.
+
+    텍스트를 처리할 수 있고 정렬 및 필터링을 하여 원하는 데이터로 가공할 수 있습니다
+
+    또한 URLSession 을 이용하여 서버와 통신, 데이터를 주고받고 앱 내에서 그 데이터를
+
+    사용할 수 있도록 구현할 수 있으며 그러한 프로젝트들을 진행해 본 경험이 있습니다.
     
 - MapKit
 
@@ -60,17 +66,11 @@
     
     슬랙을 이용하여 커뮤니케이션하고, 코드를 공유하는 등의 협업에 익숙하며
     
-    Webhook 기능을 사용하여 GitHub 저장소에 변화가 생겼을 때 알림을 받아 프로젝트를 진행 해 본 경험이 있습니다.
+    Webhook 기능을 사용하여 GitHub 저장소에 변화가 생겼을 때 알림을 받아 프로젝트를 진행해 본 경험이 있습니다.
 
 - Zenhub
 
-    ZenHub을 이용하여, Board를 만들고, Task나 Sprint를 경험하며 프로젝트를 진행 해 본 경험이 있습니다.
-
-- 
-
-### contact
-
-- E-mail : kwangjun3952@gmail.com
+    ZenHub을 이용하여, Issues를 만들고 개발 Progress에 맞게 적용한 경험과 더불어 Task나 Sprint를 경험하며 팀 프로젝트를 진행해 본 경험이 있습니다.
 
 ---
 
@@ -124,8 +124,8 @@ Fast Campus 첫 해커톤, 팀 프로젝트.
 
 ### Green Light (그린 라이트)
 
-자신의 연애, 썸등 궁굼한 남녀 사이의 문제들을 올리고 사람들에게 조언을 받는 앱.
-Fast Campus 두번째 해커톤, 팀 프로젝트.
+자신의 연애, 썸 등 궁금한 남녀 사이의 문제들을 올리고 사람들에게 조언을 받는 앱.
+Fast Campus 두 번째 해커톤, 팀 프로젝트.
 
 해커톤 이후 서버가 닫혀서 정상 작동이 불가하고, git repo의 삭제로 인하여 남아있는 자료가 따로 없습니다.
 
@@ -142,14 +142,14 @@ Fast Campus 두번째 해커톤, 팀 프로젝트.
 
 ### AirBnB Clone Project
 
-에어비엔비 앱을 클론하는 프로젝트 입니다.
-Back-end(3명), Front-end(4명), iOS(3명) 이 1팀을 이루어 한 프로젝트 입니다.
+에어비엔비 앱을 클론 하는 프로젝트입니다.
+Back-end(3명), Front-end(4명), iOS(3명) 이 1팀을 이루어 한 프로젝트입니다.
 
 - AirBnB Clone Project(에어비엔비 클론 프로젝트)
 - 기간 : 2019.07.01 ~ 08.09
 - 역할 : 로그인, 회원가입 페이지 구현, 각종 UI/UX 구현
 - 사용기술 : Swift, URLSession 
-- 프로젝트 인원 : 10명
+- 프로젝트 인원 : 10명 (iOS팀 : 3인)
 - [영상 링크](https://youtu.be/k47imZZucpY)
 - [AirBnB Clone Project](https://github.com/VincentGeranium/MyAirbnb)
 
@@ -160,38 +160,38 @@ Back-end(3명), Front-end(4명), iOS(3명) 이 1팀을 이루어 한 프로젝�
 # Blog
 
 ### [VincentGeranium Blog](https://vincentgeranium.github.io/)
-    여러 공부한 내용들을 올리는 블로그 입니다.
+    여러 공부한 내용들을 올리는 블로그입니다.
 ---
 
 # Repository List
 
 ### [TIL](https://github.com/VincentGeranium/TIL)
-    Today I Learned
+    Today I Learned.
 
 ### [MyAirbnb](https://github.com/VincentGeranium/MyAirbnb)
-    AirBnB Clone Team Project
+    AirBnB Clone Team Project.
     
 ### [Fishing Point](https://github.com/VincentGeranium/fishing)
     Fast Campus 첫 해커톤, 팀 프로젝트.
         
 ### [daily-study](https://github.com/VincentGeranium/daily-study)
-    190411 전까지 하루 공부 내용을 정리하여 업로드한 저장소
+    190411 전까지 하루 공부 내용을 정리하여 업로드한 저장소.
     
 ### [Swift-Example](https://github.com/VincentGeranium/Swift-Example)
-    스위프트 관련 서적에 나온 예제들을 만들어보고 코드를 업로드한 저장소
+    스위프트 관련 서적에 나온 예제들을 만들어보고 코드를 업로드한 저장소.
     
 ### [Swift-Study](https://github.com/VincentGeranium/Swift-Study)
-    스위프트를 공부하고 정리한 글이나 여러 코드들을 업로드한 저장소
+    스위프트를 공부하고 정리한 글이나 여러 코드들을 업로드한 저장소.
     
 ### [Algorithm-Study](https://github.com/VincentGeranium/Algorithm-Study)
-    알고리즘을 공부하고 정리한 저장소
+    알고리즘을 공부하고 정리한 저장소.
     
 ### [꼼꼼한 재은씨 문법편](https://github.com/VincentGeranium/daily-study/tree/master/Swift_study)
-    꼼꼼한 재은씨 문법편 필사한 저장소
+    꼼꼼한 재은 씨 문법 편 필사한 저장소.
     
 ### [Computer-Architecture](https://github.com/VincentGeranium/Computer-Architecture)
-    컴퓨터 구조론을 공부하고 정리한 저장소
+    컴퓨터 구조론을 공부하고 정리한 저장소.
     
 ### [study-summary](https://github.com/VincentGeranium/study-summary)
-    공부 한 여러 내용들을 정리하고 업로드 하는 저장소 입니다
+    공부 한 여러 내용들을 정리하고 업로드하는 저장소입니다.
 
