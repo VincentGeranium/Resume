@@ -99,6 +99,9 @@ edwith boostcourse iOS Programming 첫번째 프로젝트 입니다.
 - 역활 : 앱 전체 구현
 - 사용기술 : Swift, AVFoundation
 - 프로젝트 인원 : 1명
+- [Music Player Project Repo](https://github.com/VincentGeranium/edwithStudy-project-1)
+
+<img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/musicAppVideo.gif?raw=true">
 
 - - -
 
