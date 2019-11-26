@@ -8,6 +8,9 @@
     - Fishing Point (피싱 포인트)
     - Green Light (그린 라이트)
     - AirBnB Clone Project
+    
+- [edwith boostcourse iOS Progrmming](https://github.com/VincentGeranium/Resume#boostcourse)
+    - 음원재생기 애플리캐이션
 
 - [Blog](https://github.com/VincentGeranium/Resume#Blog)
     - VincentGeranium Blog
@@ -83,6 +86,16 @@ Back-end(3명), Front-end(4명), iOS(3명) 이 1팀을 이루어 한 프로젝�
 <img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a1.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a2.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a3.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a4.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a5.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a6.PNG"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/a7.PNG">
 
 ---
+
+## boostcourse
+
+- - -
+
+### 음원 재생기 어플리캐이션
+
+edwith boostcourse iOS Programming 첫번째 프로젝트 입니다.
+
+- - -
 
 # Blog
 
