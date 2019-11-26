@@ -95,6 +95,11 @@ Back-end(3명), Front-end(4명), iOS(3명) 이 1팀을 이루어 한 프로젝�
 
 edwith boostcourse iOS Programming 첫번째 프로젝트 입니다.
 
+- 기간 : 2019.09.21
+- 역활 : 앱 전체 구현
+- 사용기술 : Swift, AVFoundation
+- 프로젝트 인원 : 1명
+
 - - -
 
 # Blog
