@@ -5,6 +5,7 @@
 # 목차
 
 - [TIL](https://github.com/VincentGeranium/Resume#TIL)
+    - Today I Learned
 
 - [팀 프로젝트](https://github.com/VincentGeranium/Resume#팀-프로젝트)
     - Fishing Point (피싱 포인트)
