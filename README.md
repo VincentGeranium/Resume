@@ -4,12 +4,15 @@
 
 # 목차
 
+- [TIL](https://github.com/VincentGeranium/Resume#TIL)
+    - Today I Learned
+
 - [팀 프로젝트](https://github.com/VincentGeranium/Resume#팀-프로젝트)
     - Fishing Point (피싱 포인트)
     - Green Light (그린 라이트)
     - AirBnB Clone Project
     
-- [edwith boostcourse iOS Progrmming](https://github.com/VincentGeranium/Resume#boostcourse)
+- [개인 프로젝트 (edwith iOS Programming)](https://github.com/VincentGeranium/Resume#boostcourse)
     - 음원재생기 애플리캐이션
 
 - [Blog](https://github.com/VincentGeranium/Resume#Blog)
@@ -26,6 +29,16 @@
 - E-mail : kwangjun3952@gmail.com
 
 ---
+
+- - -
+
+## TIL
+
+- - -
+
+[Today I Learned 보기](https://github.com/VincentGeranium/TIL/blob/master/Today_I_Learnd/README.md)
+
+- - -
 
 # 프로젝트
 
@@ -87,7 +100,11 @@ Back-end(3명), Front-end(4명), iOS(3명) 이 1팀을 이루어 한 프로젝�
 
 ---
 
-## boostcourse
+## 개인 프로젝트
+
+- - -
+
+### boostcourse
 
 - - -
 
@@ -99,6 +116,9 @@ edwith boostcourse iOS Programming 첫번째 프로젝트 입니다.
 - 역활 : 앱 전체 구현
 - 사용기술 : Swift, AVFoundation
 - 프로젝트 인원 : 1명
+- [Music Player Project Repo](https://github.com/VincentGeranium/edwithStudy-project-1)
+
+<img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/musicAppVideo.gif?raw=true">
 
 - - -
 
