@@ -14,6 +14,7 @@
     
 - [개인 프로젝트 (edwith iOS Programming)](https://github.com/VincentGeranium/Resume#boostcourse)
     - 음원재생기 애플리캐이션
+    - 회원가입 화면 구현
 
 - [Blog](https://github.com/VincentGeranium/Resume#Blog)
     - VincentGeranium Blog
@@ -110,7 +111,7 @@ Back-end(3명), Front-end(4명), iOS(3명) 이 1팀을 이루어 한 프로젝�
 
 ### 음원 재생기 어플리캐이션
 
-edwith boostcourse iOS Programming 첫번째 프로젝트 입니다.
+edwith boostcourse iOS Programming 첫 번째 프로젝트 입니다.
 
 - 기간 : 2019.09.21
 - 역활 : 앱 전체 구현
@@ -119,6 +120,22 @@ edwith boostcourse iOS Programming 첫번째 프로젝트 입니다.
 - [Music Player Project Repo](https://github.com/VincentGeranium/edwithStudy-project-1)
 
 <img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/musicAppVideo.gif?raw=true">
+
+- - -
+
+### 회원가입 화면 구현
+
+edwith boostcourse iOS Programming 두 번째 프로젝트 입니다.
+
+- 기간 : 2019.12.20 ~ 22
+- 역활 : 앱 전체 구현
+- 사용기술 : Swift, Foundation
+- 프로젝트 인원 : 1명
+- [Sign Up Project Repo](https://github.com/VincentGeranium/edwithStudy-project-3)
+
+<img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/PJT-2.gif?raw=true">
+
+<img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/PJT-1.png?raw=true"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/PJT-2.png?raw=true"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/PJT-3.png?raw=true"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/PJT-4.png?raw=true"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/PJT-5.png?raw=true">
 
 - - -
 
