@@ -38,7 +38,7 @@
 
 - - -
 
-[Today I Learned 보기](https://github.com/VincentGeranium/TIL/blob/master/Today_I_Learnd/README.md)
+- [Today I Learned 보기](https://github.com/VincentGeranium/TIL/blob/master/Today_I_Learnd/README.md)
 
 - - -
 
@@ -118,7 +118,6 @@ edwith boostcourse iOS Programming 첫 번째 프로젝트 입니다.
 - 역활 : 앱 전체 구현
 - 사용기술 : Swift, AVFoundation
 - 프로젝트 인원 : 1명
-- [Music Player Project Repo](https://github.com/VincentGeranium/edwithStudy-project-1)
 
 <img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/musicAppVideo.gif?raw=true">
 
@@ -132,7 +131,6 @@ edwith boostcourse iOS Programming 두 번째 프로젝트 입니다.
 - 역활 : 앱 전체 구현
 - 사용기술 : Swift, Foundation
 - 프로젝트 인원 : 1명
-- [Sign Up Project Repo](https://github.com/VincentGeranium/edwithStudy-project-3)
 
 <img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/PJT-2.gif?raw=true">
 
@@ -148,7 +146,6 @@ edwith boostcourse iOS Programming 세 번째 프로젝트 입니다.
 - 역활 : 앱 전체 구현
 - 사용기술 : Swift, Foundation
 - 프로젝트 인원 : 1명
-- [Weather Today Project Repo](https://github.com/VincentGeranium/edwithStudy-project-4)
 
 <img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/weatherToday-4.gif?raw=true">
 
