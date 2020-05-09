@@ -16,6 +16,7 @@
     - 음원재생기 애플리캐이션
     - 회원가입 화면
     - 기상정보 애플리케이션
+    - Weather App
 
 - [Blog](https://github.com/VincentGeranium/Resume#Blog)
     - VincentGeranium Blog
