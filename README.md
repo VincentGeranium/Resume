@@ -150,6 +150,22 @@ edwith boostcourse iOS Programming 세 번째 프로젝트 입니다.
 <img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/weatherToday-4.gif?raw=true">
 
 <img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/weatherToday-1.PNG?raw=true"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/weatherToday-2.PNG?raw=true"><img width="200" alt="image" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/weatherToday-3.PNG?raw=true">
+
+- - -
+
+### Weather App
+
+SK Open API 중 Weather Planet API 를 사용한 날씨 앱 프로젝트 입니다. 
+
+- 기간 : 2020.05.02 ~ 2020.05.09
+- 역활 : 앱 전체 구현
+- 사용기술 : Swift, Foundation, CoreLocation, URLSession, Codable, DispatchQueue
+- 프로젝트 인원 : 1명
+
+<img width="200" alt="weatherSKapiGif" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/weatherAppUsedSKapi.gif?raw=true">
+
+<img width="200" alt="weatherSKapi-1" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/weatherSKapi-1.PNG?raw=true"><img width="200" alt="weatherSKapi-2" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/weatherSKapi-2.PNG?raw=true"><img width="200" alt="weatherSKapi-3" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/weatherSKapi-3.PNG?raw=true">
+
 - - -
 
 # Blog
