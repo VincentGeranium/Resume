@@ -161,6 +161,7 @@ SK Open API 중 Weather Planet API 를 사용한 날씨 앱 프로젝트 입니�
 - 역활 : 앱 전체 구현
 - 사용기술 : Swift, Foundation, CoreLocation, URLSession, Codable, DispatchQueue
 - 프로젝트 인원 : 1명
+- [Weather App Project](https://github.com/VincentGeranium/WeatherAppUsedSkAPI)
 
 <img width="200" alt="weatherSKapiGif" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/weatherAppUsedSKapi.gif?raw=true">
 
