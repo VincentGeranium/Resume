@@ -12,11 +12,11 @@
     - Green Light (그린 라이트)
     - AirBnB Clone Project
     
-- [개인 프로젝트 (edwith iOS Programming)](https://github.com/VincentGeranium/Resume#boostcourse)
-    - 음원재생기 애플리캐이션
-    - 회원가입 화면
-    - 기상정보 애플리케이션
-    - Weather App
+- [개인 프로젝트](https://github.com/VincentGeranium/Resume#개인-프로젝트)
+    - 음원재생기 애플리캐이션 (edwith iOS Programming Project)
+    - 회원가입 화면 (edwith iOS Programming Project)
+    - 기상정보 애플리케이션 (edwith iOS Programming Project)
+    - Weather App (kxcoding iOS Programming Project)
 
 - [Blog](https://github.com/VincentGeranium/Resume#Blog)
     - VincentGeranium Blog
@@ -106,9 +106,6 @@ Back-end(3명), Front-end(4명), iOS(3명) 이 1팀을 이루어 한 프로젝�
 ## 개인 프로젝트
 
 - - -
-
-### boostcourse
-
 - - -
 
 ### 음원 재생기 어플리캐이션
