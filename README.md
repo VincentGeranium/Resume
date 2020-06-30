@@ -24,11 +24,11 @@
 
 ---
 
-# 김광준
+# iOS Developer 
 
-## 개발과 사람을 좋아하는 iOS 개발자 김광준 입니다.
+## 김광준
 
-## contact
+## Contact
 
 - E-mail : kwangjun3952@gmail.com
 
@@ -178,7 +178,9 @@ SK Open API 중 Weather Planet API 를 사용한 날씨 앱 프로젝트 입니�
 - 프로젝트 인원 : 1명
 - [공적 마스크 앱](https://github.com/VincentGeranium/UsedOpenApi)
 
-<img width="200" alt="mask-1" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/mask-1.png?raw=true"><img width="200" alt="mask-3" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/mask-3.png?raw=true">
+| 목록 | 검색 |
+|:---:|:---:|
+<img width="200" alt="mask-1" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/mask-1.png?raw=true">|<img width="200" alt="mask-3" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/mask-3.png?raw=true">
 
 - - -
 
