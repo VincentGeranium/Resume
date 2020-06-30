@@ -45,7 +45,7 @@ Fast Campus 첫 해커톤, 팀 프로젝트.
 
 - Fishing Point (피싱 포인트)
 - 기간 : 2019.05.17 ~ 24
-- 역할 : 등록 페이지 구현
+- 역할 : 등록 페이지 구현, 맵 뷰 
 - 사용기술 : Swift, MapKit, CoreLocation, MobileCoreService, Firebase
 - 프로젝트 인원 : 2명
 - [영상 링크](https://youtu.be/uMAwjqyQP90)
