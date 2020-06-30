@@ -17,6 +17,7 @@
     - 회원가입 화면 (edwith iOS Programming Project)
     - 기상정보 애플리케이션 (edwith iOS Programming Project)
     - Weather App (kxcoding iOS Programming Project)
+    - 공적 마스크 앱
 
 - [Blog](https://github.com/VincentGeranium/Resume#Blog)
     - VincentGeranium Blog
@@ -164,6 +165,20 @@ SK Open API 중 Weather Planet API 를 사용한 날씨 앱 프로젝트 입니�
 <img width="200" alt="weatherSKapiGif" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/weatherAppUsedSKapi.gif?raw=true">
 
 <img width="200" alt="weatherSKapi-1" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/weatherSKapi-1.PNG?raw=true"><img width="200" alt="weatherSKapi-2" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/weatherSKapi-2.PNG?raw=true"><img width="200" alt="weatherSKapi-3" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/weatherSKapi-3.PNG?raw=true">
+
+- - -
+
+### 공적 마스크 앱
+
+공공 데이터 포털에서 제공하는 Open API 중 "좌표(위/경도) 기준 공적 마스크 판매정보 제공 서비스 API"를 사용하여 공적 마스크를 판매하는 곳의 판매처명, 판매처 유형, 판매처 주소를 보여주는 앱 입니다.
+
+- 기간 : 2020.06.19 ~ 2020.06.30
+- 역활 : 앱 전체 구현
+- 사용기술 : Swift, Foundation, JSONSerialization, UIKit
+- 프로젝트 인원 : 1명
+- [공적 마스크 앱](https://github.com/VincentGeranium/UsedOpenApi)
+
+<img width="200" alt="mask-1" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/mask-1.png?raw=true"><img width="200" alt="mask-3" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/mask-3.png?raw=true">
 
 - - -
 
