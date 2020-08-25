@@ -2,6 +2,10 @@
 
 ---
 
+# ![VincentGeranium's github stats](https://github-readme-stats.vercel.app/api?username=vincentgeranium&show_icons=true)
+
+---
+
 # 목차
 
 - [팀 프로젝트](https://github.com/VincentGeranium/Resume#팀-프로젝트)
