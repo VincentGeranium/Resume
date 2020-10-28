@@ -19,9 +19,12 @@
     - 기상정보 애플리케이션 (edwith iOS Programming Project)
     - Weather App (kxcoding iOS Programming Project)
     - 공적 마스크 앱
+    
+- [iOS 공부](https://github.com/VincentGeranium/Resume#iOS-공부)
+
+- [알고리즘](https://github.com/VincentGeranium/Resume#알고리즘)
 
 - [Blog](https://github.com/VincentGeranium/Resume#Blog)
-    - VincentGeranium Blog
 
 - - -
 - - -
@@ -182,7 +185,32 @@ kxCoding - SK Open API 중 Weather Planet API 를 사용한 날씨 앱 프로젝
 - - -
 - - -
 
+# iOS 공부
+
+iOS를 공부하면서 만든 tutorial과 프로젝트들의 모음입니다.
+
+### [iOS_Projects](https://github.com/VincentGeranium/iOS_Projects)
+
+### [APITutorial](https://github.com/VincentGeranium/APITutorial)
+
+- - -
+- - -
+
+# 알고리즘
+
+백준 온라인 저지 및 프로그래머스 등에서 알고리즘을 푼 내용을 모아 놓은 레포지토리 입니다.
+
+### [Algorithm Pracrice Contents](https://github.com/VincentGeranium/Algorithm-Study/blob/master/Algorithm-Practice/README.md)
+
+- - -
+- - -
+
 # Blog
+
+개발 블로그 입니다.
+
+### [티스토리 개발 블로그](https://vincent-geranium.tistory.com)
+    현재 티스토리 블로그를 이용하여 개발 블로그를 운영 중입니다.
 
 ### [VincentGeranium Blog](https://vincentgeranium.github.io/)
     여러 공부한 내용들을 올리는 블로그입니다.
