@@ -19,6 +19,7 @@
     - 기상정보 애플리케이션 (edwith iOS Programming Project)
     - Weather App (kxcoding iOS Programming Project)
     - 공적 마스크 앱
+    - 코로나 토탈
     
 - [iOS 공부](https://github.com/VincentGeranium/Resume#iOS-공부)
 
@@ -181,6 +182,25 @@ kxCoding - SK Open API 중 Weather Planet API 를 사용한 날씨 앱 프로젝
 | 목록 | 검색 |
 |:---:|:---:|
 <img width="200" alt="mask-1" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/mask-1.png?raw=true">|<img width="200" alt="mask-3" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/mask-3.png?raw=true">
+
+- - -
+- - -
+
+### 코로나 토탈
+
+공공 데이터 포털에서 제공하는 Open API 중 "보건복지부 코로나19 시·도 발생현황 API"을 사용하여 각 시.도별 코로나 발생 현황 집계 수치를 보여주는 앱 입니다.
+
+- 기간 : 2020.11.14 ~ 2020.11.22
+- 역활 : 앱 전체 구현
+- 사용기술 : Swift, UIKit, Foundation, XMLParser
+- 프로젝트 인원 : 1명
+- [코로나 토탈](https://github.com/VincentGeranium/iOS_Projects/tree/master/CoronaProject)
+
+<img width="200" alt="ct_demo" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/corona_total_demo.gif?raw=true">
+
+| 목록 | 상세화면 |
+|:---:|:---:|
+<img width="200" alt="ct-2" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/6.5_2.png?raw=true">|<img width="200" alt="ct-3" src="https://github.com/VincentGeranium/Resume/blob/master/IMAGE/6.5_3.png?raw=true">
 
 - - -
 - - -
